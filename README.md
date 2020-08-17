@@ -1,4 +1,4 @@
-# Datacamp-projects
+# Datacamp Projects
 Practice your data science skills using datacamp projects.
 
 <p align="center"> 
